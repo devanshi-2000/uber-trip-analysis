@@ -6,13 +6,14 @@ This project dives into Uber trip data to analyze patterns like peak travel hour
 - Excel
 
 ## 📌 Key Features
-- Identified top 3 cities by total trips
+- Identified top 3 cities by total bookings
 - Built interactive dashboards in Power BI
 - Calculated average trip distance and fares
 - Visualized time trends and customer preferences
 
 ## 📷 Screenshots
-
-
-## 📁 Folder Structure
+- Overview
+- Time Analysis
+- Details
+- Summary
 
