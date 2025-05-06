@@ -36,10 +36,13 @@ This project explores Uber trip data to uncover trends in booking patterns, city
 ---
 
 ## 📁 Project Structure
-'''
+
+```
 uber-trip-analysis/
-├── data/ # Excel datasets used for analysis
-├── powerbi/ # Power BI (.pbix) dashboard file
-├── screenshots/ # Images of key dashboard visuals
-└── README.md # Project overview and documentation
-'''
+│
+├── data/             # Excel datasets used for analysis  
+├── powerbi/          # Power BI (.pbix) dashboard file  
+├── SCREENSHOTS/      # Images of key dashboard visuals  
+└── README.md         # Project overview and documentation  
+```
+
