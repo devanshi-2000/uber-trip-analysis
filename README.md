@@ -1,19 +1,43 @@
-# Uber Trip Analysis 🚗📊
-This project dives into Uber trip data to analyze patterns like peak travel hours, city-wise demand, and average trip distances.
+# 🚗 Uber Trip Analysis Dashboard
 
-## 🔧 Tools Used
-- Power BI
-- Excel
+This project explores Uber trip data to uncover trends in booking patterns, city-wise demand, and customer behavior. It was completed as part of a **group project** during my Business Insights & Analytics program, focusing on collaborative analysis and visualization using Power BI and Excel.
 
-## 📌 Key Features
-- Identified top 3 cities by total bookings
-- Built interactive dashboards in Power BI
-- Calculated average trip distance and fares
-- Visualized time trends and customer preferences
+---
+
+## 🔧 Tools & Technologies
+- **Power BI** – for interactive dashboards and data visualization  
+- **Excel** – for data cleaning, transformation, and initial analysis  
+
+---
+
+## 📌 Key Insights
+- Identified the top 3 cities with the highest number of bookings  
+- Analyzed peak travel hours and popular trip times  
+- Calculated average trip distances and fare ranges  
+- Built interactive dashboards with filters for city, time, and trip type  
+- Visualized customer demand trends over time  
+
+---
 
 ## 📷 Screenshots
-- Overview
-- Time Analysis
-- Details
-- Summary
 
+### Dashboard Overview
+![Overview](screenshots/Overview.png)
+
+### Time Analysis
+![Time Analysis](screenshots/Time_Analysis.png)
+
+### Details
+![Details](screenshots/Details.png)
+
+### Summary
+![Summary](screenshots/Summary.png)
+
+---
+
+## 📁 Project Structure
+uber-trip-analysis/
+├── data/ # Excel datasets used for analysis
+├── powerbi/ # Power BI (.pbix) dashboard file
+├── screenshots/ # Images of key dashboard visuals
+└── README.md # Project overview and documentation
