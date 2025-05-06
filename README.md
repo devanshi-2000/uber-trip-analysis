@@ -46,3 +46,19 @@ uber-trip-analysis/
 └── README.md         # Project overview and documentation  
 ```
 
+---
+
+## 👥 Credits
+This project was completed as a group effort. Special thanks to my teammates for their collaboration and contributions.
+
+---
+
+## ⚠️ Usage Notice
+This project is for **educational and portfolio purposes only**.  
+Please do not reuse or distribute without permission.
+
+---
+
+## 📫 Let's Connect
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/devanshisharma)  
+
