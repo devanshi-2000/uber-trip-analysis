@@ -27,11 +27,11 @@ This project explores Uber trip data to uncover trends in booking patterns, city
 ### Time Analysis
 ![Trip Analysis](SCREENSHOTS/Trip%20Analysis.png)
 
-### Summary View
-![Summary](SCREENSHOTS/Summary.png)
-
 ### Detail View
 ![Details](SCREENSHOTS/Details.png)
+
+### Summary View
+![Summary](SCREENSHOTS/Summary.png)
 
 ---
 
